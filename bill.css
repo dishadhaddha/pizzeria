@@ -1,0 +1,57 @@
+.root
+{
+    -fx-background-image: url("bill.png");
+}
+
+
+.details
+{
+    
+    -fx-background-color: transparent;
+    -fx-font-size: 15px;
+    -fx-text-fill: #0072ff;
+    -fx-font-weight: bold; 
+     -fx-font-style: italic;
+}
+
+
+.back
+{
+    -fx-background-color: rgba(255,255,255,0.95);
+    -fx-background-radius: 15;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 20, 0, 0, 0);
+}
+
+.total
+{
+    -fx-background-color: transparent;
+    -fx-font-size: 15px;
+    -fx-text-fill: #ff2424;
+    -fx-font-weight: bold; 
+     -fx-font-style: italic;
+}
+
+.amt
+{
+    -fx-background-color: transparent;
+    -fx-font-size: 17px;
+    -fx-text-fill: #ff2424;
+     -fx-font-style: italic;
+     -fx-font-weight: 800; 
+}
+
+.pay
+{    
+    -fx-font-size: 18px;
+    -fx-text-fill: #ffffff;
+     -fx-font-style: italic;
+     -fx-font-weight: 800; 
+   
+}
+
+.tback
+{
+   -fx-background-color: #1c1c1c;
+    -fx-background-radius: 16;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 20, 0, 0, 0); 
+}

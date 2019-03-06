@@ -1,0 +1,77 @@
+.root
+{
+    -fx-background-image: url("proper.png");
+
+}
+
+
+.button
+{
+    -fx-background-color: transparent;
+    
+}
+
+
+
+.headings
+{
+    
+    -fx-background-color: transparent;
+    -fx-font-size: 16px;
+    -fx-text-fill: #0072ff;
+    -fx-font-weight: bold; 
+}
+
+.toppings
+{
+    -fx-background-color: transparent;
+    -fx-font-size: 12px;
+    -fx-text-fill: #2f2f2f;
+    -fx-font-weight: bold;
+    -fx-font-style: italic;
+}
+
+.button-change
+{
+    -fx-background-color: transparent;
+    -fx-font-size: 19px;
+    -fx-text-fill: #ff2424;
+    -fx-font-weight: bold; 
+}
+
+.price
+{
+    -fx-background-color: transparent;
+    -fx-font-size: 15px;
+    -fx-text-fill: #165dfc;
+    -fx-font-weight: bold; 
+}
+
+
+.qty
+{
+    -fx-background-color: transparent;
+    -fx-font-size: 16px;
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold; 
+}
+
+
+
+.cancel
+{
+    -fx-background-image: url("cancel.png");
+    -fx-background-repeat: no-repeat;
+   
+}
+
+
+.temp
+{
+    -fx-background-color: #3d3632;
+    -fx-background-radius: 12;
+    -fx-font-size:15px;
+    -fx-text-fill: #ffffff;
+    -fx-text-align: center;
+    -fx-font-weight: 500;
+}
